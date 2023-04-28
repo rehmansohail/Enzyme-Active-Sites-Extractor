@@ -8,7 +8,7 @@ for ex. GLN A 213
         
 difference between two scripts
 
-draft.py - open the file and provide input as strings in the code itself and mention the name of the input file and run it by opening the working directory in terminal and using the command - 'python draft.py'
+draft.py - open the file and provide input as strings and mention the name of the input file in the code itself, run it by opening the working directory in terminal and using the command - 'python draft.py'
 
 draft2.py - open working directory in terminal and run the command - 'python draft2.py' and follow the steps on screen
 
