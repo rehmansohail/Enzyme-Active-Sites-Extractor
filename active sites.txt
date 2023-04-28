@@ -1,0 +1,8 @@
+Active sites for 1oil.pdb (Lipase), found using CASTp 3.0
+
+SER A  87
+LEU A 246
+HIS A 286
+SER B  87
+ASP B 264
+HIS B 286
